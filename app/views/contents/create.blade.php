@@ -1,0 +1,1 @@
+/Users/benjamin/workspace/caifushijie/caifushijie/app/views/contents/create.blade.php

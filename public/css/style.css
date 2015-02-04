@@ -1,0 +1,53 @@
+body {
+}
+
+#sidebar {
+}
+
+.item img {
+    border: 1px solid #272727;
+}
+
+#admin-issues-container {
+
+}
+
+#admin-issues-container .issue-item {
+    margin: 20px 10px;
+    border: 1px solid #94C9A9;
+}
+#admin-issues-container .issue-item .issue-item-type {
+    margin-bottom: 0;
+    padding: 10px;
+    background-color: #94C9A9;
+    color: #fff;
+}
+#admin-issues-container .issue-item .issue-item-info {
+     background-color: #94C9A9;
+     color: #fff;
+     padding: 10px;
+ }
+#admin-issues-container .issue-item .issue-item-info span {
+    vertical-align: middle;
+}
+#admin-issues-container .issue-item .issue-item-info a {
+    color: #777DA7;
+    font-style: italic;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+#admin-issues-container .issue-item .issue-item-info a:hover {
+    color: #885053;
+    text-decoration: none;
+}
+
+.flex-container {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
